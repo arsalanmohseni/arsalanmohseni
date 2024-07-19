@@ -1,4 +1,4 @@
-[# 💫 About Me:
+# 💫 About Me:
 👋🏻 Hi, Im Arsalan<br>🔭 I’m currently working on courseshop project<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning typescript and angular<br>💬 Ask me about react js, angular, flutter, python, git, github, node js, express js, nodemon and nest js
 
 
